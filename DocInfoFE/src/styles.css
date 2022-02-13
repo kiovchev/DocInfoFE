@@ -1,1 +1,21 @@
 /* You can add global styles to this file, and also import other style files */
+form {
+    border: 3px solid gray;
+    border-radius: 20px;
+    padding: 10% 15%;
+    margin-top: 20%;
+}
+.form-control{
+    border: 3px solid gray;
+    border-radius: 20px;
+}
+.form-label{
+    font-size: 20px;
+    font-weight: bold;
+    color: chocolate;
+}
+.btn, .btn-primary {
+    border-radius: 10px;
+    background-color: chocolate;
+    float: right;
+}
